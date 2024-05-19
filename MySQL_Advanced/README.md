@@ -1,1 +1,1 @@
-Readme for MYSQl
+README MySQL
