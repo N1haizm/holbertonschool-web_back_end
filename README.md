@@ -1,1 +1,2 @@
-Readme for es6
+# Holbertonschool Web Backend
+![Alt text](https://blog.holbertonschool.com/wp-content/uploads/2020/04/unnamed-2.png)
